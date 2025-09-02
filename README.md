@@ -8,3 +8,4 @@
 # ".." commands up one level in directory. This is 7 of 10 changes to my readme.
 # "mkdir" creates new directory/folder. This is 8 of 10 changes to my readme.
 # "rm" removes file/folder. This is 9 of 10 changes to my readme.
+# "cat" combines multiple files. This is 10 of 10 changes to my readme
